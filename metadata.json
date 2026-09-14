@@ -1,0 +1,6 @@
+{
+  "name": "NPL Nowcast & BI Macroprudential Risk",
+  "description": "Aplikasi Nowcasting dan Forecasting NPL Perbankan berbasis Sentimen Berita Keuangan (Deep Learning NLP) dan Model Ekonometrika Makroprudensial Bank Indonesia dengan AI Risk Copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
